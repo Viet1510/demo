@@ -1,14 +1,36 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "email": "viet@gmail.com",
+  "firstName": "viet",
+  "lastName": "",
+  "mobileNumber": "123456789",
+  "password": "viet@123",
+  "registrations": [
+    {
+      "aboutMeDetails": "string",
+      "aboutMeTitle": "string",
+      "accountStatus": "string",
+      "address": "string",
+      "admissionInterest": "string",
+      "age": "string",
+      "altMobile": "string",
+      "autoFree": "string",
+      "city": "string",
+      "clinetIndiaAddress": "string",
+      "currentAnnualSalary": "string",
+      "currentEmployer": "string",
+      "currentLocation": "string",
+      "dndActivate": "string",
+      "education": "string",
+      "facebookLink": "string",
+      "fatherName": "string",
+      "followupCourse": "string",
+      "gitHub": "string",
+      "imei": "string",
+      "instagram": "string",
+      "ipAddress": "string",
+      "ipLocation": "string",
+      "keySkills": "string",
+      "languagesKnown": "string",
+      "lastNotificationViewDate": "2023-2023"
+    }
 }
